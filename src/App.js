@@ -2,7 +2,7 @@ import './App.css';
 import Button from './Button'
 import ButtonList from './ButtonList'
 
-const someText = "① Egyszer";
+const someText = "Egyszer";
 
 function App() {
   return (

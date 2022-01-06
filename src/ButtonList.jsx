@@ -8,7 +8,7 @@ const ButtonList = () => {
     }
   };
 
-  return <button onClick={tenTimesText}>⑩ Tízszer</button>;
+  return <button onClick={tenTimesText}>Tízszer</button>;
 };
 
 export default ButtonList;
