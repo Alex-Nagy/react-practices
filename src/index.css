@@ -18,6 +18,8 @@ button {
   border-radius: 10px;
   border: solid rgb(0, 0, 0) 1.5px;
   margin: 25px 10px;
+  width: 130px;
+  height: 30px;
 }
 
 p {
