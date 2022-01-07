@@ -22,8 +22,3 @@ function App() {
 }
 
 export default App;
-
-/* HF
-TODO: ButtonList component
-? ami 10-szer kirendereli a Text komponenst
-*/
