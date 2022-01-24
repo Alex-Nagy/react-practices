@@ -5,6 +5,9 @@ jan.12 -useState- input
 jan.13 -journey tasks
 jan.14 -demo done
 ...
+
+jan 24 - rick and morty
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
